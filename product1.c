@@ -17,3 +17,10 @@ P1F2 Function()
 {
   //Product1 Feature2 Code  
 }
+
+#Security Patch
+Security Patch()
+{
+ //Security Patch Code
+}
+
