@@ -9,4 +9,9 @@ Product2 Function()
 P2F1 Function()
 {
   //Product2 Feature1 Code  
+
+#Product2 - Feature2 
+P2F2 Function()
+{
+  //Product2 Feature2 Code  
 }
