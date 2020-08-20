@@ -24,6 +24,7 @@ Security Patch()
  //Security Patch Code
 }
 
+<<<<<<< HEAD
 #Product1 - Feature1.1 
 P1F1.1 Function()
 {
@@ -35,4 +36,10 @@ P1F1.1 Function()
 P1F2.1 Function()
 {
   //Product1 Feature2.1 Code  
+=======
+#Product1 - Feature3 
+P1F3 Function()
+{
+  //Product1 Feature3 Code  
+>>>>>>> feature3
 }
